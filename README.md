@@ -30,8 +30,8 @@ I'm Mohammed, a Google Developer Expert for Android. Currently, I work as a sr. 
 
 
 ## Github stats
-![Mohammed's github stats](https://github-readme-stats.vercel.app/api?username=alomair91&count_private=true&theme=tokyonight&show_icons=true&hide=contribs,prs)
-![Mohammed's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alomair91&langs_count=8&theme=tokyonight)
+![Mohammed's github stats](https://github-readme-stats.vercel.app/api?username=alomair91&count_private=true&theme=tokyonight&show_icons=true&count_private=true,prs)
+![Mohammed's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alomair91&langs_count=10&theme=tokyonight)
 
 
 <br/>

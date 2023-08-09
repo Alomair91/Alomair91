@@ -28,6 +28,7 @@ I'm Mohammed, a Google Developer Expert for Android. Currently, I work as a sr. 
 </p>
 <br/>
 
+<a href="https://wakatime.com/@1e015246-f191-40b9-bfef-fc7a45d5242b"><img src="https://wakatime.com/badge/user/1e015246-f191-40b9-bfef-fc7a45d5242b.svg"></a>
 
 ## Github stats
 <!--![Mohammed's github stats](https://github-readme-stats.vercel.app/api?username=alomair91&count_private=true&theme=tokyonight&show_icons=true&hide=contribs,prs)-->
